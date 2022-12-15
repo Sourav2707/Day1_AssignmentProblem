@@ -1,6 +1,6 @@
 package com.uc4_sum_of_commandline_arguments;
 
-public class StringEquals {
+public class Sum {
     public static void main(String[] args)
     {
         int sum = 0;
